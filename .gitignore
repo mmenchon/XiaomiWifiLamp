@@ -3,6 +3,7 @@
 
 # Folders
 /build-XiaomiWifiLamp-Desktop_Qt_5_14_2_MinGW_64_bit-Release
+/.idea
 
 *~
 *.autosave
@@ -37,6 +38,8 @@ Thumbs.db
 *.rc
 /.qmake.cache
 /.qmake.stash
+/cmake-build-debug
+CMakeLists.txt
 
 # qtcreator generated files
 *.pro.user*
